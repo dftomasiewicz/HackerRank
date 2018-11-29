@@ -1,0 +1,38 @@
+[1mdiff --git a/.idea/workspace.xml b/.idea/workspace.xml[m
+[1mnew file mode 100644[m
+[1mindex 0000000..3a3bd97[m
+[1m--- /dev/null[m
+[1m+++ b/.idea/workspace.xml[m
+[36m@@ -0,0 +1,701 @@[m
+[32m+[m[32m<?xml version="1.0" encoding="UTF-8"?>[m
+[32m+[m[32m<project version="4">[m
+[32m+[m[32m  <component name="ChangeListManager">[m
+[32m+[m[32m    <list default="true" id="cb2df97e-3adc-4f40-959e-568ec4b9e3c5" name="Default" comment="">[m
+[32m+[m[32m      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />[m
+[32m+[m[32m      <change afterPath="$PROJECT_DIR$/out/production/HackerRank/com/dft/AngryProfessor.class" afterDir="false" />[m
+[32m+[m[32m      <change afterPath="$PROJECT_DIR$/out/production/HackerRank/com/dft/AppleAndOrange.class" afterDir="false" />[m
+[32m+[m[32m      <change afterPath="$PROJECT_DIR$/out/production/HackerRank/com/dft/BeautifulDaysAtTheMovies.class" afterDir="false" />[m
+[32m+[m[32m      <change afterPath="$PROJECT_DIR$/out/production/HackerRank/com/dft/BirthdayChocolate.class" afterDir="false" />[m
+[32m+[m[32m      <change afterPath="$PROJECT_DIR$/out/production/HackerRank/com/dft/BonAppetit.class" afterDir="false" />[m
+[32m+[m[32m      <change afterPath="$PROJECT_DIR$/out/production/HackerRank/com/dft/BreakingTheRecords.class" afterDir="false" />[m
+[32m+[m[32m      <change afterPath="$PROJECT_DIR$/out/production/HackerRank/com/dft/CatsAndAMouse.class" afterDir="false" />[m
+[32m+[m[32m      <change afterPath="$PROJECT_DIR$/out/production/HackerRank/com/dft/CircularArrayRotation.class" afterDir="false" />[m
+[32m+[m[32m      <change afterPath="$PROJECT_DIR$/out/production/HackerRank/com/dft/CompareTheTriplets.class" afterDir="false" />[m
+[32m+[m[32m      <change afterPath="$PROJECT_DIR$/out/production/HackerRank/com/dft/CountingValley.class" afterDir="false" />[m
+[32m+[m[32m      <change afterPath="$PROJECT_DIR$/out/production/HackerRank/com/dft/DayOfTheProgrammer.class" afterDir="false" />[m
+[32m+[m[32m      <change afterPath="$PROJECT_DIR$/out/production/HackerRank/com/dft/DesignerPDFViewer.class" afterDir="false" />[m
+[32m+[m[32m      <change afterPath="$PROJECT_DIR$/out/production/HackerRank/com/dft/DivisibleSumPairs.class" afterDir="false" />[m
+[32m+[m[32m      <change afterPath="$PROJECT_DIR$/out/production/HackerRank/com/dft/DrawingBook.class" afterDir="false" />[m
+[32m+[m[32m      <change afterPath="$PROJECT_DIR$/out/production/HackerRank/com/dft/ElectronicsShop.class" afterDir="false" />[m
+[32m+[m[32m      <change afterPath="$PROJECT_DIR$/out/production/HackerRank/com/dft/ExtraLongFactorials.class" afterDir="false" />[m
+[32m+[m[32m      <change afterPath="$PROJECT_DIR$/out/production/HackerRank/com/dft/FindDigits.class" afterDir="false" />[m
+[32m+[m[32m      <change afterPath="$PROJECT_DIR$/out/production/HackerRank/com/dft/FormingAMagicSquare.class" afterDir="false" />[m
+[32m+[m[32m      <change afterPath="$PROJECT_DIR$/out/production/HackerRank/com/dft/GradingStudents.class" afterDir="false" />[m
+[32m+[m[32m      <change afterPath="$PROJECT_DIR$/out/production/HackerRank/com/dft/JumpingOnTheCloudsRevisited.class" afterDir="false" />[m
+[32m+[m[32m      <change afterPath="$PROJECT_DIR$/out/production/HackerRank/com/dft/Kangaroo.class" afterDir="false" />[m
+[32m+[m[32m      <change afterPath="$PROJECT_DIR$/out/production/HackerRank/com/dft/Main.class" afterDir="false" />[m
+[32m+[m[32m      <change afterPath="$PROJECT_DIR$/out/production/HackerRank/com/dft/MigratoryBirds.class" afterDir="false" />[m
+[32m+[m[32m      <change afterPath="$PROJECT_DIR$/out/production/HackerRank/com/dft/NRClimbingTheLeaderboard.class" afterDir="false" />[m
+[32m+[m[32m      <change afterPath="$PROJECT_DIR$/out/production/HackerRank/com/dft/PickingNumbers.class" afterDir="false" />[m
+[32m+[m[32m      <change afterPath="$PROJECT_DIR$/out/production/HackerRank/com/dft/SaveThePrisoner.class" afterDir="false" />[m
+[32m+[m[32m      <change afterPath="$PROJECT_DIR$/out/pr

@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb2df97e-3adc-4f40-959e-568ec4b9e3c5" name="Default" comment="Exercises from HackerRank" />
+    <list default="true" id="cb2df97e-3adc-4f40-959e-568ec4b9e3c5" name="Default" comment="Exercises from HackerRank">
+      <change afterPath="$PROJECT_DIR$/out/production/HackerRank/com/dft/easy/EqualizeTheArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/com/dft/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dft/easy/EqualizeTheArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dft/easy/EqualizeTheArray.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,29 +25,42 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="git commit" value="1" />
-          <entry key="java" value="9" />
+          <entry key="java" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="9" />
+          <entry key="JAVA" value="10" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2583" />
+          <entry key="java" value="2914" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2583" />
+          <entry key="JAVA" value="2914" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/dft/easy/EqualizeTheArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -58,7 +76,7 @@
       </list>
     </option>
     <option name="UPDATE_TYPE" value="MERGE" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/HackerRank.git" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -104,13 +122,15 @@
         <option value="$PROJECT_DIR$/src/com/dft/easy/RepeatedString.java" />
         <option value="$PROJECT_DIR$/src/com/dft/easy/JumpingOnTheClouds.java" />
         <option value="$PROJECT_DIR$/src/com/dft/Animal.java" />
+        <option value="$PROJECT_DIR$/src/com/dft/easy/EqualizeTheArray.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="564" />
-    <option name="width" value="802" />
-    <option name="height" value="738" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="603" />
+    <option name="y" value="2" />
+    <option name="width" value="760" />
+    <option name="height" value="737" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -138,6 +158,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="dft" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dft" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -145,7 +172,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543514156413" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544043497504" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java C_School/Egzamin/mojerozwiazania" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
@@ -171,7 +198,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Animal">
+  <component name="RunManager" selected="Application.EqualizeTheArray">
     <configuration name="Animal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dft.Animal" />
       <module name="HackerRank" />
@@ -198,8 +225,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JumpingOnTheClouds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dft.easy.JumpingOnTheClouds" />
+    <configuration name="EqualizeTheArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dft.easy.EqualizeTheArray" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
@@ -211,12 +238,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LibraryFine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dft.easy.LibraryFine" />
+    <configuration name="JumpingOnTheClouds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dft.easy.JumpingOnTheClouds" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dft.medium.*" />
+          <option name="PATTERN" value="com.dft.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -238,19 +265,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LibraryFine" />
       <item itemvalue="Application.CutTheSticks" />
       <item itemvalue="Application.RepeatedString" />
       <item itemvalue="Application.JumpingOnTheClouds" />
       <item itemvalue="Application.Animal" />
+      <item itemvalue="Application.EqualizeTheArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EqualizeTheArray" />
         <item itemvalue="Application.Animal" />
         <item itemvalue="Application.JumpingOnTheClouds" />
         <item itemvalue="Application.RepeatedString" />
         <item itemvalue="Application.CutTheSticks" />
-        <item itemvalue="Application.LibraryFine" />
       </list>
     </recent_temporary>
   </component>
@@ -283,9 +310,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="564" y="0" width="802" height="738" extended-state="1" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2884097" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08698941" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -294,14 +322,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4969021" visible="true" weight="0.27272728" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4973046" visible="true" weight="0.2657005" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3978979" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32882884" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5030979" side_tool="true" weight="0.2429752" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50269544" side_tool="true" weight="0.27272728" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32561985" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -674,6 +702,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dft/easy/EqualizeTheArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

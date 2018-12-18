@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb2df97e-3adc-4f40-959e-568ec4b9e3c5" name="Default" comment="Added solution Equalize The Array">
-      <change afterPath="$PROJECT_DIR$/out/production/HackerRank/com/dft/medium/QueensAttackII.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dft/medium/QueensAttackII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cb2df97e-3adc-4f40-959e-568ec4b9e3c5" name="Default" comment="Added QueensAttackIi solution" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,13 +46,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/dft/medium/QueensAttackII.java">
+        <entry file="file://$PROJECT_DIR$/src/com/dft/easy/AcmIcpcTeam.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="49" lean-forward="true" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="209">
+              <caret line="31" column="44" lean-forward="true" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -165,7 +158,7 @@
               <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="dft" type="462c0819:PsiDirectoryNode" />
-              <item name="medium" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -174,7 +167,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545076380089" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545161813704" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java C_School/Egzamin/mojerozwiazania" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
@@ -200,7 +193,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.QueensAttackII">
+  <component name="RunManager" selected="Application.AcmIcpcTeam">
+    <configuration name="AcmIcpcTeam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dft.easy.AcmIcpcTeam" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dft.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Animal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dft.Animal" />
       <module name="HackerRank" />
@@ -253,33 +259,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RepeatedString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dft.easy.RepeatedString" />
-      <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dft.easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.RepeatedString" />
       <item itemvalue="Application.JumpingOnTheClouds" />
       <item itemvalue="Application.Animal" />
       <item itemvalue="Application.EqualizeTheArray" />
       <item itemvalue="Application.QueensAttackII" />
+      <item itemvalue="Application.AcmIcpcTeam" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AcmIcpcTeam" />
         <item itemvalue="Application.QueensAttackII" />
         <item itemvalue="Application.EqualizeTheArray" />
         <item itemvalue="Application.Animal" />
         <item itemvalue="Application.JumpingOnTheClouds" />
-        <item itemvalue="Application.RepeatedString" />
       </list>
     </recent_temporary>
   </component>
@@ -326,10 +319,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="454" y="2" width="937" height="738" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08698941" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13112885" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -384,6 +377,24 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
     </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -702,19 +713,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dft/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="9" selection-end-column="5" />
-          <folding>
-            <element signature="e#189#190#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#290#291#0" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dft/Animal.java" />
     <entry file="file://$PROJECT_DIR$/src/com/dft/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">

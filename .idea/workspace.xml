@@ -20,24 +20,24 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="git commit" value="1" />
-          <entry key="java" value="13" />
+          <entry key="java" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="13" />
+          <entry key="JAVA" value="17" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="6694" />
+          <entry key="java" value="7758" />
           <entry key="txt" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6694" />
+          <entry key="JAVA" value="7758" />
           <entry key="PLAIN_TEXT" value="33" />
         </counts>
       </usages-collector>
@@ -46,10 +46,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/dft/easy/TaumAndBday.java">
+        <entry file="file://$PROJECT_DIR$/src/com/dft/medium/OrganizingContainersOfBalls.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="85" selection-start-line="26" selection-start-column="85" selection-end-line="26" selection-end-column="85" />
+            <state relative-caret-position="34">
+              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -119,14 +119,15 @@
         <option value="$PROJECT_DIR$/src/com/dft/easy/EqualizeTheArray.java" />
         <option value="$PROJECT_DIR$/src/com/dft/medium/QueensAttackII.java" />
         <option value="$PROJECT_DIR$/src/com/dft/easy/TaumAndBday.java" />
+        <option value="$PROJECT_DIR$/src/com/dft/medium/OrganizingContainersOfBalls.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="603" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="618" />
     <option name="y" value="2" />
-    <option name="width" value="760" />
-    <option name="height" value="737" />
+    <option name="width" value="773" />
+    <option name="height" value="738" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -154,6 +155,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="dft" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dft" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -161,7 +169,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545250905152" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545565796838" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java C_School/Egzamin/mojerozwiazania" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
@@ -187,7 +195,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TaumAndBday">
+  <component name="RunManager" selected="Application.OrganizingContainersOfBalls">
     <configuration name="AcmIcpcTeam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dft.easy.AcmIcpcTeam" />
       <module name="HackerRank" />
@@ -201,12 +209,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Animal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dft.Animal" />
+    <configuration name="EqualizeTheArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dft.easy.EqualizeTheArray" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dft.*" />
+          <option name="PATTERN" value="com.dft.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -214,12 +222,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EqualizeTheArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dft.easy.EqualizeTheArray" />
+    <configuration name="OrganizingContainersOfBalls" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dft.medium.OrganizingContainersOfBalls" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dft.easy.*" />
+          <option name="PATTERN" value="com.dft.medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -254,19 +262,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Animal" />
       <item itemvalue="Application.EqualizeTheArray" />
       <item itemvalue="Application.QueensAttackII" />
       <item itemvalue="Application.AcmIcpcTeam" />
       <item itemvalue="Application.TaumAndBday" />
+      <item itemvalue="Application.OrganizingContainersOfBalls" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OrganizingContainersOfBalls" />
         <item itemvalue="Application.TaumAndBday" />
         <item itemvalue="Application.AcmIcpcTeam" />
         <item itemvalue="Application.QueensAttackII" />
         <item itemvalue="Application.EqualizeTheArray" />
-        <item itemvalue="Application.Animal" />
       </list>
     </recent_temporary>
   </component>
@@ -325,7 +333,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4973046" visible="true" weight="0.25764894" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4973046" visible="true" weight="0.24959743" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3978979" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -465,13 +473,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dft/medium/FormingAMagicSquare.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -645,13 +646,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dft/medium/ExtraLongFactorials.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dft/easy/SherlockAndSquares.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -746,6 +740,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="85" selection-start-line="26" selection-start-column="85" selection-end-line="26" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dft/medium/FormingAMagicSquare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dft/medium/ExtraLongFactorials.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dft/medium/OrganizingContainersOfBalls.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
         </state>
       </provider>
     </entry>

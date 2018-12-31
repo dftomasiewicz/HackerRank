@@ -11,7 +11,7 @@ public class Encryption {
         if (rows * columns < s.length()) {
             rows = columns;
         }
-        
+
         char[][] arrayToEncryption = new char[rows][columns];
         for (int r = 0; r < rows; r++) {
             for (int c = 0; c < columns && (r * columns + c) < s.length(); c++) {

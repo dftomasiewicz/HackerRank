@@ -12,7 +12,7 @@ public class BiggerIsGreaterLexicograhicalOrder {
 //        Now i is the HEAD index of the suffix
 
 //        We check if we are at the last permutation already
-//        if condition is true return false (in this case do nothing)
+//        if condition is true return false (in this case no answer)
         if (i <= 0) {
             return "no answer";
         }

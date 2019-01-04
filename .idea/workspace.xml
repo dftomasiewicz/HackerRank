@@ -21,26 +21,26 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="git commit" value="1" />
-          <entry key="java" value="31" />
+          <entry key="java" value="32" />
           <entry key="md" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="31" />
+          <entry key="JAVA" value="32" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="12107" />
+          <entry key="java" value="12460" />
           <entry key="md" value="44" />
           <entry key="txt" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="12107" />
+          <entry key="JAVA" value="12460" />
           <entry key="PLAIN_TEXT" value="77" />
         </counts>
       </usages-collector>
@@ -49,13 +49,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/dft/easy/MinimumDistances.java">
+        <entry file="file://$PROJECT_DIR$/src/com/dft/easy/HalloweenSale.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="595">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
             </state>
           </provider>
         </entry>
@@ -81,7 +78,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/dft/TimeConversion.java" />
         <option value="$PROJECT_DIR$/src/com/dft/GradingStudents.java" />
         <option value="$PROJECT_DIR$/src/com/dft/AppleAndOrange.java" />
         <option value="$PROJECT_DIR$/src/com/dft/Kangaroo.java" />
@@ -132,10 +128,11 @@
         <option value="$PROJECT_DIR$/src/com/dft/easy/BeatufilTriplets.java" />
         <option value="$PROJECT_DIR$/src/com/dft/easy/BeautifulTriplets.java" />
         <option value="$PROJECT_DIR$/src/com/dft/easy/MinimumDistances.java" />
+        <option value="$PROJECT_DIR$/src/com/dft/easy/HalloweenSale.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="461" />
     <option name="width" value="905" />
     <option name="height" value="738" />
@@ -173,7 +170,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546546309146" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546636723333" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java C_School/Egzamin/mojerozwiazania" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -199,7 +196,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MinimumDistances">
+  <component name="RunManager" selected="Application.HalloweenSale">
     <configuration name="BeautifulTriplets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dft.easy.BeautifulTriplets" />
       <module name="HackerRank" />
@@ -213,12 +210,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BiggerIsGreaterLexicograhicalOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dft.medium.BiggerIsGreaterLexicograhicalOrder" />
+    <configuration name="BirthdayChocolate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dft.easy.BirthdayChocolate" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dft.medium.*" />
+          <option name="PATTERN" value="com.dft.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,8 +223,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BirthdayChocolate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dft.easy.BirthdayChocolate" />
+    <configuration name="HalloweenSale" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dft.easy.HalloweenSale" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
@@ -266,19 +263,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BiggerIsGreaterLexicograhicalOrder" />
       <item itemvalue="Application.ModifiedKaprekarNumbers" />
       <item itemvalue="Application.BirthdayChocolate" />
       <item itemvalue="Application.BeautifulTriplets" />
       <item itemvalue="Application.MinimumDistances" />
+      <item itemvalue="Application.HalloweenSale" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HalloweenSale" />
         <item itemvalue="Application.MinimumDistances" />
         <item itemvalue="Application.BeautifulTriplets" />
         <item itemvalue="Application.ModifiedKaprekarNumbers" />
         <item itemvalue="Application.BirthdayChocolate" />
-        <item itemvalue="Application.BiggerIsGreaterLexicograhicalOrder" />
       </list>
     </recent_temporary>
   </component>
@@ -419,13 +416,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Added solution Equalize The Array" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/dft/easy/CatsAndAMouse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dft/easy/CompareTheTriplets.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -799,11 +789,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dft/easy/MinimumDistances.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dft/easy/HalloweenSale.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>

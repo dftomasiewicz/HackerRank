@@ -21,26 +21,26 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="git commit" value="1" />
-          <entry key="java" value="32" />
+          <entry key="java" value="34" />
           <entry key="md" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="32" />
+          <entry key="JAVA" value="34" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="12460" />
+          <entry key="java" value="13374" />
           <entry key="md" value="44" />
           <entry key="txt" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="12460" />
+          <entry key="JAVA" value="13374" />
           <entry key="PLAIN_TEXT" value="77" />
         </counts>
       </usages-collector>
@@ -49,10 +49,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/dft/easy/HalloweenSale.java">
+        <entry file="file://$PROJECT_DIR$/src/com/dft/medium/TheTimeInWords.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="357">
+              <caret line="66" column="81" selection-start-line="66" selection-start-column="81" selection-end-line="66" selection-end-column="81" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -78,7 +81,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/dft/GradingStudents.java" />
         <option value="$PROJECT_DIR$/src/com/dft/AppleAndOrange.java" />
         <option value="$PROJECT_DIR$/src/com/dft/Kangaroo.java" />
         <option value="$PROJECT_DIR$/src/com/dft/BreakingTheRecords.java" />
@@ -129,12 +131,13 @@
         <option value="$PROJECT_DIR$/src/com/dft/easy/BeautifulTriplets.java" />
         <option value="$PROJECT_DIR$/src/com/dft/easy/MinimumDistances.java" />
         <option value="$PROJECT_DIR$/src/com/dft/easy/HalloweenSale.java" />
+        <option value="$PROJECT_DIR$/src/com/dft/medium/TheTimeInWords.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="461" />
-    <option name="width" value="905" />
+    <option name="x" value="694" />
+    <option name="width" value="672" />
     <option name="height" value="738" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -170,7 +173,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546636723333" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546677506463" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java C_School/Egzamin/mojerozwiazania" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -196,22 +199,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HalloweenSale">
+  <component name="RunManager" selected="Application.TheTimeInWords">
     <configuration name="BeautifulTriplets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dft.easy.BeautifulTriplets" />
-      <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dft.easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BirthdayChocolate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dft.easy.BirthdayChocolate" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
@@ -262,20 +252,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TheTimeInWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dft.medium.TheTimeInWords" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dft.medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.ModifiedKaprekarNumbers" />
-      <item itemvalue="Application.BirthdayChocolate" />
       <item itemvalue="Application.BeautifulTriplets" />
       <item itemvalue="Application.MinimumDistances" />
       <item itemvalue="Application.HalloweenSale" />
+      <item itemvalue="Application.TheTimeInWords" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TheTimeInWords" />
         <item itemvalue="Application.HalloweenSale" />
         <item itemvalue="Application.MinimumDistances" />
         <item itemvalue="Application.BeautifulTriplets" />
         <item itemvalue="Application.ModifiedKaprekarNumbers" />
-        <item itemvalue="Application.BirthdayChocolate" />
       </list>
     </recent_temporary>
   </component>
@@ -322,10 +325,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="461" y="0" width="905" height="738" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14437869" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09228442" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -334,7 +337,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4973046" visible="true" weight="0.23636363" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4973046" visible="true" weight="0.19323671" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3978979" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -342,7 +345,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32882884" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50269544" side_tool="true" weight="0.27272728" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32396695" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3236715" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -416,13 +419,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Added solution Equalize The Array" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/dft/easy/CompareTheTriplets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="42" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dft/easy/CountingValley.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
@@ -796,8 +792,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dft/easy/HalloweenSale.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
+        <state relative-caret-position="544">
           <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dft/medium/TheTimeInWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="66" column="81" selection-start-line="66" selection-start-column="81" selection-end-line="66" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

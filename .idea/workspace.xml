@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb2df97e-3adc-4f40-959e-568ec4b9e3c5" name="Default" comment="Added QueensAttackIi solution" />
+    <list default="true" id="cb2df97e-3adc-4f40-959e-568ec4b9e3c5" name="Default" comment="Added QueensAttackIi solution">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank.iml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,26 +24,26 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="git commit" value="1" />
-          <entry key="java" value="34" />
+          <entry key="java" value="36" />
           <entry key="md" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="34" />
+          <entry key="JAVA" value="36" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="13374" />
+          <entry key="java" value="14174" />
           <entry key="md" value="44" />
           <entry key="txt" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="13374" />
+          <entry key="JAVA" value="14174" />
           <entry key="PLAIN_TEXT" value="77" />
         </counts>
       </usages-collector>
@@ -49,13 +52,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/dft/medium/TheTimeInWords.java">
+        <entry file="file://$PROJECT_DIR$/src/com/dft/easy/ChocolateFeast.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="66" column="81" selection-start-line="66" selection-start-column="81" selection-end-line="66" selection-end-column="81" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="85">
+              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -65,6 +65,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit4 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -81,8 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/dft/AppleAndOrange.java" />
-        <option value="$PROJECT_DIR$/src/com/dft/Kangaroo.java" />
         <option value="$PROJECT_DIR$/src/com/dft/BreakingTheRecords.java" />
         <option value="$PROJECT_DIR$/src/com/dft/BirthdayChocolate.java" />
         <option value="$PROJECT_DIR$/src/com/dft/DivisibleSumPairs.java" />
@@ -132,6 +131,8 @@
         <option value="$PROJECT_DIR$/src/com/dft/easy/MinimumDistances.java" />
         <option value="$PROJECT_DIR$/src/com/dft/easy/HalloweenSale.java" />
         <option value="$PROJECT_DIR$/src/com/dft/medium/TheTimeInWords.java" />
+        <option value="$PROJECT_DIR$/src/com/dft/medium/TheTimeInWordsTest.java" />
+        <option value="$PROJECT_DIR$/src/com/dft/easy/ChocolateFeast.java" />
       </list>
     </option>
   </component>
@@ -173,7 +174,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546677506463" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546890942895" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java C_School/Egzamin/mojerozwiazania" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -181,10 +188,16 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.dft.medium" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.dft" />
       <recent name="com.dft.medium" />
       <recent name="com.dft.easy" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -199,9 +212,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TheTimeInWords">
+  <component name="RunManager" selected="Application.ChocolateFeast">
     <configuration name="BeautifulTriplets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dft.easy.BeautifulTriplets" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dft.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChocolateFeast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dft.easy.ChocolateFeast" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
@@ -239,19 +265,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ModifiedKaprekarNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dft.easy.ModifiedKaprekarNumbers" />
-      <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dft.easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TheTimeInWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dft.medium.TheTimeInWords" />
       <module name="HackerRank" />
@@ -266,19 +279,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ModifiedKaprekarNumbers" />
       <item itemvalue="Application.BeautifulTriplets" />
       <item itemvalue="Application.MinimumDistances" />
       <item itemvalue="Application.HalloweenSale" />
       <item itemvalue="Application.TheTimeInWords" />
+      <item itemvalue="Application.ChocolateFeast" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChocolateFeast" />
         <item itemvalue="Application.TheTimeInWords" />
         <item itemvalue="Application.HalloweenSale" />
         <item itemvalue="Application.MinimumDistances" />
         <item itemvalue="Application.BeautifulTriplets" />
-        <item itemvalue="Application.ModifiedKaprekarNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -325,10 +338,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="694" y="0" width="672" height="738" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09228442" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12418301" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -337,7 +350,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4973046" visible="true" weight="0.19323671" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4973046" visible="true" weight="0.2214876" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3978979" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -419,20 +432,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Added solution Equalize The Array" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/dft/easy/CountingValley.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" column="42" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dft/easy/DivisibleSumPairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dft/easy/ElectronicsShop.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -797,13 +796,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dft/medium/TheTimeInWordsTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dft/medium/TheTimeInWords.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="66" column="81" selection-start-line="66" selection-start-column="81" selection-end-line="66" selection-end-column="81" />
+        <state relative-caret-position="85">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dft/easy/ChocolateFeast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
         </state>
       </provider>
     </entry>

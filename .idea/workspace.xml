@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb2df97e-3adc-4f40-959e-568ec4b9e3c5" name="Default" comment="Added QueensAttackIi solution">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cb2df97e-3adc-4f40-959e-568ec4b9e3c5" name="Default" comment="Added QueensAttackIi solution" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,26 +23,26 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="git commit" value="1" />
-          <entry key="java" value="39" />
+          <entry key="java" value="40" />
           <entry key="md" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="39" />
+          <entry key="JAVA" value="40" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="15139" />
+          <entry key="java" value="15816" />
           <entry key="md" value="44" />
           <entry key="txt" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="15139" />
+          <entry key="JAVA" value="15816" />
           <entry key="PLAIN_TEXT" value="77" />
         </counts>
       </usages-collector>
@@ -53,10 +51,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/dft/easy/LisaWorkbook.java">
+        <entry file="file://$PROJECT_DIR$/src/com/dft/easy/FlatlandSpaceStations.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+            <state relative-caret-position="277">
+              <caret line="28" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="28" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -71,6 +69,14 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace>,</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
@@ -83,7 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/dft/MigratoryBirds.java" />
         <option value="$PROJECT_DIR$/src/com/dft/DayOfTheProgrammer.java" />
         <option value="$PROJECT_DIR$/src/com/dft/SockMerchant.java" />
         <option value="$PROJECT_DIR$/src/com/dft/DrawingBook.java" />
@@ -134,12 +139,14 @@
         <option value="$PROJECT_DIR$/src/com/dft/easy/BetweenTwoSets.java" />
         <option value="$PROJECT_DIR$/src/com/dft/easy/ServiceLane.java" />
         <option value="$PROJECT_DIR$/src/com/dft/easy/LisaWorkbook.java" />
+        <option value="$PROJECT_DIR$/src/com/dft/easy/FlatlandSpaceStations.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="378" />
-    <option name="width" value="988" />
+    <option name="x" value="262" />
+    <option name="y" value="252" />
+    <option name="width" value="772" />
     <option name="height" value="738" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -178,7 +185,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547277009237" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547401539784" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -213,7 +220,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LisaWorkbook">
+  <component name="RunManager" selected="Application.FlatlandSpaceStations">
     <configuration name="BetweenTwoSets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dft.easy.BetweenTwoSets" />
       <module name="HackerRank" />
@@ -229,6 +236,19 @@
     </configuration>
     <configuration name="ChocolateFeast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dft.easy.ChocolateFeast" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dft.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlatlandSpaceStations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dft.easy.FlatlandSpaceStations" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
@@ -266,33 +286,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TheTimeInWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dft.medium.TheTimeInWords" />
-      <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dft.medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.TheTimeInWords" />
       <item itemvalue="Application.ChocolateFeast" />
       <item itemvalue="Application.BetweenTwoSets" />
       <item itemvalue="Application.ServiceLane" />
       <item itemvalue="Application.LisaWorkbook" />
+      <item itemvalue="Application.FlatlandSpaceStations" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FlatlandSpaceStations" />
         <item itemvalue="Application.LisaWorkbook" />
         <item itemvalue="Application.ServiceLane" />
         <item itemvalue="Application.BetweenTwoSets" />
         <item itemvalue="Application.ChocolateFeast" />
-        <item itemvalue="Application.TheTimeInWords" />
       </list>
     </recent_temporary>
   </component>
@@ -339,10 +346,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="378" y="0" width="988" height="738" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12068965" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08472012" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -351,7 +358,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4973046" visible="true" weight="0.2214876" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4973046" visible="true" weight="0.28502417" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3978979" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -433,16 +440,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Added solution Equalize The Array" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/dft/easy/MigratoryBirds.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dft/easy/TimeConversion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
@@ -818,6 +815,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dft/easy/FlatlandSpaceStations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="28" selection-end-column="5" />
         </state>
       </provider>
     </entry>

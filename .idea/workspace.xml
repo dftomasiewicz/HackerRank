@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb2df97e-3adc-4f40-959e-568ec4b9e3c5" name="Default" comment="Added QueensAttackIi solution" />
+    <list default="true" id="cb2df97e-3adc-4f40-959e-568ec4b9e3c5" name="Default" comment="Added QueensAttackIi solution">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,49 +15,50 @@
     <session id="199176314">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.119" value="1" />
           <entry key="project.open.time.132" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.60" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.68" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="git commit" value="1" />
-          <entry key="java" value="43" />
+          <entry key="java" value="44" />
           <entry key="md" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="43" />
+          <entry key="JAVA" value="44" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="17558" />
+          <entry key="java" value="18166" />
           <entry key="md" value="44" />
           <entry key="txt" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="17558" />
+          <entry key="JAVA" value="18166" />
           <entry key="PLAIN_TEXT" value="77" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/dft/easy/CavityMap.java">
+        <entry file="file://$PROJECT_DIR$/src/com/dft/easy/ManasaAndStones.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="51" selection-start-line="51" selection-end-line="51" />
+            <state relative-caret-position="221">
+              <caret line="19" column="49" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -93,7 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/dft/DrawingBook.java" />
         <option value="$PROJECT_DIR$/src/com/dft/CountingValley.java" />
         <option value="$PROJECT_DIR$/src/com/dft/ElectronicsShop.java" />
         <option value="$PROJECT_DIR$/src/com/dft/CatsAndAMouse.java" />
@@ -144,6 +146,7 @@
         <option value="$PROJECT_DIR$/src/com/dft/easy/FlatlandSpaceStations.java" />
         <option value="$PROJECT_DIR$/src/com/dft/easy/FairRotations.java" />
         <option value="$PROJECT_DIR$/src/com/dft/easy/CavityMap.java" />
+        <option value="$PROJECT_DIR$/src/com/dft/easy/ManasaAndStones.java" />
       </list>
     </option>
   </component>
@@ -158,6 +161,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -187,7 +191,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -195,11 +198,11 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547582535139" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547674258296" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java C_School/Egzamin/mojerozwiazania" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java Udemy Complete Java Maserclass Tim Buchalka/InputOutput" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -230,7 +233,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CavityMap">
+  <component name="RunManager" selected="Application.ManasaAndStones">
     <configuration name="CavityMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dft.easy.CavityMap" />
       <module name="HackerRank" />
@@ -283,8 +286,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ServiceLane" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dft.easy.ServiceLane" />
+    <configuration name="ManasaAndStones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dft.easy.ManasaAndStones" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
@@ -297,19 +300,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ServiceLane" />
       <item itemvalue="Application.LisaWorkbook" />
       <item itemvalue="Application.FlatlandSpaceStations" />
       <item itemvalue="Application.FairRotations" />
       <item itemvalue="Application.CavityMap" />
+      <item itemvalue="Application.ManasaAndStones" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ManasaAndStones" />
         <item itemvalue="Application.CavityMap" />
         <item itemvalue="Application.FairRotations" />
         <item itemvalue="Application.FlatlandSpaceStations" />
         <item itemvalue="Application.LisaWorkbook" />
-        <item itemvalue="Application.ServiceLane" />
       </list>
     </recent_temporary>
   </component>
@@ -356,10 +359,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="564" y="0" width="772" height="738" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08698941" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16573034" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -368,7 +371,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4973046" visible="true" weight="0.26881722" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4973046" weight="0.28760332" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3978979" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -450,13 +453,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Added solution Equalize The Array" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="543" column="6" selection-start-line="543" selection-start-column="6" selection-end-line="543" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dft/easy/NRClimbingTheLeaderboard.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -786,8 +782,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dft/easy/CavityMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        <state relative-caret-position="663">
+          <caret line="39" column="71" lean-forward="true" selection-start-line="39" selection-start-column="71" selection-end-line="39" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dft/easy/ManasaAndStones.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="19" column="49" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

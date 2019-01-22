@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb2df97e-3adc-4f40-959e-568ec4b9e3c5" name="Default" comment="Added QueensAttackIi solution" />
+    <list default="true" id="cb2df97e-3adc-4f40-959e-568ec4b9e3c5" name="Default" comment="Added QueensAttackIi solution">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,26 +27,26 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="git commit" value="1" />
-          <entry key="java" value="57" />
+          <entry key="java" value="62" />
           <entry key="md" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="57" />
+          <entry key="JAVA" value="62" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="21622" />
+          <entry key="java" value="23835" />
           <entry key="md" value="44" />
           <entry key="txt" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="21622" />
+          <entry key="JAVA" value="23835" />
           <entry key="PLAIN_TEXT" value="77" />
         </counts>
       </usages-collector>
@@ -53,10 +55,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/dft/medium/TreeDSurfaceArea.java">
+        <entry file="file://$PROJECT_DIR$/src/com/dft/medium/AbsolutePermutation.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -91,9 +93,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/dft/PickingNumbers.java" />
-        <option value="$PROJECT_DIR$/src/com/dft/ClimbingTheLeaderboard.java" />
-        <option value="$PROJECT_DIR$/src/com/dft/NRClimbingTheLeaderboard.java" />
         <option value="$PROJECT_DIR$/src/com/dft/TheHurdleRace.java" />
         <option value="$PROJECT_DIR$/src/com/dft/DesignerPDFViewer.java" />
         <option value="$PROJECT_DIR$/src/com/dft/UtopianTree.java" />
@@ -142,12 +141,15 @@
         <option value="$PROJECT_DIR$/src/com/dft/easy/HappyLadyBugs.java" />
         <option value="$PROJECT_DIR$/src/com/dft/easy/StrangeCounter.java" />
         <option value="$PROJECT_DIR$/src/com/dft/medium/TreeDSurfaceArea.java" />
+        <option value="$PROJECT_DIR$/src/com/dft/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/dft/medium/LexicographicallySmallestAbsolutePermutation.java" />
+        <option value="$PROJECT_DIR$/src/com/dft/medium/AbsolutePermutation.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="656" />
-    <option name="width" value="710" />
+    <option name="x" value="575" />
+    <option name="width" value="791" />
     <option name="height" value="738" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -175,6 +177,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="dft" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dft" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -186,7 +195,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548102585148" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548192641866" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -221,13 +230,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TreeDSurfaceArea">
-    <configuration name="HappyLadyBugs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dft.easy.HappyLadyBugs" />
+  <component name="RunManager" selected="Application.LexicographicallySmallestAbsolutePermutation">
+    <configuration name="AbsolutePermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dft.medium.AbsolutePermutation" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dft.easy.*" />
+          <option name="PATTERN" value="com.dft.medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -235,8 +244,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ManasaAndStones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dft.easy.ManasaAndStones" />
+    <configuration name="HappyLadyBugs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dft.easy.HappyLadyBugs" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
@@ -288,19 +297,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ManasaAndStones" />
       <item itemvalue="Application.TheGridSearch" />
       <item itemvalue="Application.HappyLadyBugs" />
       <item itemvalue="Application.StrangeCounter" />
       <item itemvalue="Application.TreeDSurfaceArea" />
+      <item itemvalue="Application.LexicographicallySmallestAbsolutePermutation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LexicographicallySmallestAbsolutePermutation" />
         <item itemvalue="Application.TreeDSurfaceArea" />
         <item itemvalue="Application.StrangeCounter" />
         <item itemvalue="Application.HappyLadyBugs" />
         <item itemvalue="Application.TheGridSearch" />
-        <item itemvalue="Application.ManasaAndStones" />
       </list>
     </recent_temporary>
   </component>
@@ -347,10 +356,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="656" y="0" width="710" height="738" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13384615" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.06580938" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -359,7 +368,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4973046" weight="0.45454547" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4973046" weight="0.36070853" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3966942" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -441,13 +450,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Added solution Equalize The Array" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/dft/easy/AngryProfessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dft/easy/BeautifulDaysAtTheMovies.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -564,13 +566,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dft/Animal.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/dft/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dft/easy/EqualizeTheArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -708,13 +703,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dft/medium/BiggerIsGreaterLexicograhicalOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-226">
-          <caret line="21" column="55" lean-forward="true" selection-start-line="21" selection-start-column="55" selection-end-line="21" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dft/medium/Encryption.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-35">
@@ -785,6 +773,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dft/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dft/medium/BiggerIsGreaterLexicograhicalOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="33" column="52" selection-start-line="33" selection-start-column="52" selection-end-line="33" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dft/medium/AbsolutePermutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>

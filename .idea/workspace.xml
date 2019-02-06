@@ -39,14 +39,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="25602" />
+          <entry key="java" value="25604" />
           <entry key="md" value="44" />
           <entry key="txt" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="25602" />
+          <entry key="JAVA" value="25604" />
           <entry key="PLAIN_TEXT" value="77" />
         </counts>
       </usages-collector>
@@ -57,8 +57,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/dft/java/easyTasks/JavaOutputFormatting.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+            <state relative-caret-position="289">
+              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -93,7 +93,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/dft/BeautifulDaysAtTheMovies.java" />
         <option value="$PROJECT_DIR$/src/com/dft/ViralAdvertising.java" />
         <option value="$PROJECT_DIR$/src/com/dft/SaveThePrisoner.java" />
         <option value="$PROJECT_DIR$/src/com/dft/CircularArrayRotation.java" />
@@ -144,12 +143,13 @@
         <option value="$PROJECT_DIR$/src/com/dft/java/easyTasks/JavaStdinAndStdout1.java" />
         <option value="$PROJECT_DIR$/src/com/dft/java/easyTasks/JavaStdinAndStdout2.java" />
         <option value="$PROJECT_DIR$/src/com/dft/java/easyTasks/JavaIfElse.java" />
+        <option value="$PROJECT_DIR$/src/com/dft/java/easyTasks/JavaOutputFormatting.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="375" />
-    <option name="width" value="991" />
+    <option name="x" value="583" />
+    <option name="width" value="783" />
     <option name="height" value="738" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -203,7 +203,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549432577621" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549432801004" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -364,10 +364,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="375" y="0" width="991" height="738" extended-state="0" />
+    <frame x="583" y="0" width="783" height="738" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34586465" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17704011" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -806,8 +806,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dft/java/easyTasks/JavaOutputFormatting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        <state relative-caret-position="289">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
         </state>
       </provider>
     </entry>

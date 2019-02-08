@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb2df97e-3adc-4f40-959e-568ec4b9e3c5" name="Default" comment="Added QueensAttackIi solution" />
+    <list default="true" id="cb2df97e-3adc-4f40-959e-568ec4b9e3c5" name="Default" comment="Added QueensAttackIi solution">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,26 +27,26 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="git commit" value="1" />
-          <entry key="java" value="73" />
+          <entry key="java" value="75" />
           <entry key="md" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="73" />
+          <entry key="JAVA" value="75" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="25606" />
+          <entry key="java" value="25891" />
           <entry key="md" value="44" />
           <entry key="txt" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="25606" />
+          <entry key="JAVA" value="25891" />
           <entry key="PLAIN_TEXT" value="77" />
         </counts>
       </usages-collector>
@@ -53,10 +55,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/dft/java/easyTasks/JavaLoops1.java">
+        <entry file="file://$PROJECT_DIR$/src/com/dft/java/easyTasks/JavaLoops2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            <state relative-caret-position="374">
+              <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -91,8 +93,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/dft/SaveThePrisoner.java" />
-        <option value="$PROJECT_DIR$/src/com/dft/CircularArrayRotation.java" />
         <option value="$PROJECT_DIR$/src/com/dft/SequenceEquation.java" />
         <option value="$PROJECT_DIR$/src/com/dft/JumpingOnTheCloudsRevisited.java" />
         <option value="$PROJECT_DIR$/src/com/dft/FindDigits.java" />
@@ -142,12 +142,14 @@
         <option value="$PROJECT_DIR$/src/com/dft/java/easyTasks/JavaIfElse.java" />
         <option value="$PROJECT_DIR$/src/com/dft/java/easyTasks/JavaOutputFormatting.java" />
         <option value="$PROJECT_DIR$/src/com/dft/java/easyTasks/JavaLoops1.java" />
+        <option value="$PROJECT_DIR$/src/com/dft/java/easyTasks/segdfg.java" />
+        <option value="$PROJECT_DIR$/src/com/dft/java/easyTasks/JavaLoops2.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="477" />
-    <option name="width" value="889" />
+    <option name="x" value="600" />
+    <option name="width" value="766" />
     <option name="height" value="738" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -201,7 +203,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549519917900" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549656114992" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -236,9 +238,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JavaLoops1">
-    <configuration name="JavaIfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dft.java.easyTasks.JavaIfElse" />
+  <component name="RunManager" selected="Application.JavaLoops2">
+    <configuration name="JavaLoops1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dft.java.easyTasks.JavaLoops1" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
@@ -250,8 +252,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaLoops1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dft.java.easyTasks.JavaLoops1" />
+    <configuration name="JavaLoops2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dft.java.easyTasks.JavaLoops2" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
@@ -276,19 +278,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaStdinAndStdout1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dft.java.easyTasks.JavaStdinAndStdout1" />
-      <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dft.java.easyTasks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="JavaStdinAndStdout2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dft.java.easyTasks.JavaStdinAndStdout2" />
       <module name="HackerRank" />
@@ -302,20 +291,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="segdfg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dft.java.easyTasks.segdfg" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dft.java.easyTasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.JavaStdinAndStdout1" />
-      <item itemvalue="Application.JavaIfElse" />
       <item itemvalue="Application.JavaStdinAndStdout2" />
       <item itemvalue="Application.JavaOutputFormatting" />
       <item itemvalue="Application.JavaLoops1" />
+      <item itemvalue="Application.segdfg" />
+      <item itemvalue="Application.JavaLoops2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaLoops2" />
+        <item itemvalue="Application.segdfg" />
         <item itemvalue="Application.JavaLoops1" />
         <item itemvalue="Application.JavaOutputFormatting" />
         <item itemvalue="Application.JavaStdinAndStdout2" />
-        <item itemvalue="Application.JavaIfElse" />
-        <item itemvalue="Application.JavaStdinAndStdout1" />
       </list>
     </recent_temporary>
   </component>
@@ -362,10 +364,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="477" y="0" width="889" height="738" extended-state="0" />
+    <frame x="600" y="0" width="766" height="738" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1544029" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18130311" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -456,20 +458,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Added solution Equalize The Array" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/dft/easy/PickingNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6">
-          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dft/easy/JumpingOnTheCloudsRevisited.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dft/easy/FindDigits.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="217">
@@ -804,8 +792,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dft/java/easyTasks/JavaLoops1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dft/java/easyTasks/segdfg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dft/java/easyTasks/JavaLoops2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
         </state>
       </provider>
     </entry>

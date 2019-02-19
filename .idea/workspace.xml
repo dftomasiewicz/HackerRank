@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb2df97e-3adc-4f40-959e-568ec4b9e3c5" name="Default" comment="Added QueensAttackIi solution" />
+    <list default="true" id="cb2df97e-3adc-4f40-959e-568ec4b9e3c5" name="Default" comment="Added QueensAttackIi solution">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,26 +27,26 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="git commit" value="1" />
-          <entry key="java" value="85" />
+          <entry key="java" value="86" />
           <entry key="md" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="85" />
+          <entry key="JAVA" value="86" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="25982" />
+          <entry key="java" value="25986" />
           <entry key="md" value="44" />
           <entry key="txt" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="25982" />
+          <entry key="JAVA" value="25986" />
           <entry key="PLAIN_TEXT" value="77" />
         </counts>
       </usages-collector>
@@ -53,10 +55,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/dft/java/easyTasks/JavaCurrencyFormatter.java">
+        <entry file="file://$PROJECT_DIR$/src/com/dft/java/easyTasks/JavaStringsIntroduction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+            <state relative-caret-position="272">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -91,8 +93,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/dft/SherlockAndSquares.java" />
-        <option value="$PROJECT_DIR$/src/com/dft/LibraryFine.java" />
         <option value="$PROJECT_DIR$/src/com/dft/CutTheSticks.java" />
         <option value="$PROJECT_DIR$/src/com/dft/easy/RepeatedString.java" />
         <option value="$PROJECT_DIR$/src/com/dft/easy/JumpingOnTheClouds.java" />
@@ -142,6 +142,8 @@
         <option value="$PROJECT_DIR$/src/com/dft/java/easyTasks/rrgsdgd.java" />
         <option value="$PROJECT_DIR$/src/com/dft/java/easyTasks/JavaStaticInitializerBlock.java" />
         <option value="$PROJECT_DIR$/src/com/dft/java/easyTasks/JavaDateAndTime.java" />
+        <option value="$PROJECT_DIR$/src/com/dft/java/easyTasks/JavaCurrencyFormatter.java" />
+        <option value="$PROJECT_DIR$/src/com/dft/java/easyTasks/JavaStringsIntroduction.java" />
       </list>
     </option>
   </component>
@@ -203,7 +205,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550299364481" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550606531046" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -238,7 +240,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JavaCurrencyFormatter">
+  <component name="RunManager" selected="Application.JavaStringsIntroduction">
     <configuration name="JavaCurrencyFormatter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dft.java.easyTasks.JavaCurrencyFormatter" />
       <module name="HackerRank" />
@@ -291,8 +293,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="segdfg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dft.java.easyTasks.segdfg" />
+    <configuration name="JavaStringsIntroduction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dft.java.easyTasks.JavaStringsIntroduction" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
@@ -305,19 +307,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.segdfg" />
       <item itemvalue="Application.JavaLoops2" />
       <item itemvalue="Application.JavaStaticInitializerBlock" />
       <item itemvalue="Application.JavaDateAndTime" />
       <item itemvalue="Application.JavaCurrencyFormatter" />
+      <item itemvalue="Application.JavaStringsIntroduction" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaStringsIntroduction" />
         <item itemvalue="Application.JavaCurrencyFormatter" />
         <item itemvalue="Application.JavaDateAndTime" />
         <item itemvalue="Application.JavaStaticInitializerBlock" />
         <item itemvalue="Application.JavaLoops2" />
-        <item itemvalue="Application.segdfg" />
       </list>
     </recent_temporary>
   </component>
@@ -376,7 +378,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4973046" visible="true" weight="0.35041323" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4973046" weight="0.35041323" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3966942" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -458,13 +460,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Added solution Equalize The Array" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/dft/easy/LibraryFine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dft/easy/JumpingOnTheClouds.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -818,8 +813,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dft/java/easyTasks/JavaCurrencyFormatter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        <state relative-caret-position="255">
+          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dft/java/easyTasks/JavaStringsIntroduction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
         </state>
       </provider>
     </entry>

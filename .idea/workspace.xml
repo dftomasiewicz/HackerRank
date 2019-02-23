@@ -25,26 +25,26 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="git commit" value="1" />
-          <entry key="java" value="87" />
+          <entry key="java" value="90" />
           <entry key="md" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="87" />
+          <entry key="JAVA" value="90" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="26101" />
+          <entry key="java" value="26153" />
           <entry key="md" value="44" />
           <entry key="txt" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="26101" />
+          <entry key="JAVA" value="26153" />
           <entry key="PLAIN_TEXT" value="77" />
         </counts>
       </usages-collector>
@@ -53,12 +53,13 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/dft/java/easyTasks/Anagrams.java">
+        <entry file="file://$PROJECT_DIR$/src/com/dft/java/easyTasks/JavaSubstringComparisons.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+            <state relative-caret-position="357">
+              <caret line="21" column="69" selection-start-line="21" selection-start-column="69" selection-end-line="21" selection-end-column="69" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#660#661#0" expanded="true" />
+                <element signature="e#736#737#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -94,8 +95,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/dft/easy/RepeatedString.java" />
-        <option value="$PROJECT_DIR$/src/com/dft/easy/JumpingOnTheClouds.java" />
         <option value="$PROJECT_DIR$/src/com/dft/Animal.java" />
         <option value="$PROJECT_DIR$/src/com/dft/easy/EqualizeTheArray.java" />
         <option value="$PROJECT_DIR$/src/com/dft/medium/QueensAttackII.java" />
@@ -145,6 +144,8 @@
         <option value="$PROJECT_DIR$/src/com/dft/java/easyTasks/JavaCurrencyFormatter.java" />
         <option value="$PROJECT_DIR$/src/com/dft/java/easyTasks/JavaStringsIntroduction.java" />
         <option value="$PROJECT_DIR$/src/com/dft/java/easyTasks/Anagrams.java" />
+        <option value="$PROJECT_DIR$/src/com/dft/java/easyTasks/JavaSubstring.java" />
+        <option value="$PROJECT_DIR$/src/com/dft/java/easyTasks/JavaSubstringComparisons.java" />
       </list>
     </option>
   </component>
@@ -206,7 +207,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550695557651" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550911436589" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -241,7 +242,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JavaStringsIntroduction">
+  <component name="RunManager" selected="Application.JavaSubstringComparisons">
     <configuration name="JavaCurrencyFormatter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dft.java.easyTasks.JavaCurrencyFormatter" />
       <module name="HackerRank" />
@@ -257,19 +258,6 @@
     </configuration>
     <configuration name="JavaDateAndTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dft.java.easyTasks.JavaDateAndTime" />
-      <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dft.java.easyTasks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JavaLoops2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dft.java.easyTasks.JavaLoops2" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
@@ -307,20 +295,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JavaSubstringComparisons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dft.java.easyTasks.JavaSubstringComparisons" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dft.java.easyTasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.JavaLoops2" />
       <item itemvalue="Application.JavaStaticInitializerBlock" />
       <item itemvalue="Application.JavaDateAndTime" />
       <item itemvalue="Application.JavaCurrencyFormatter" />
       <item itemvalue="Application.JavaStringsIntroduction" />
+      <item itemvalue="Application.JavaSubstringComparisons" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaSubstringComparisons" />
         <item itemvalue="Application.JavaStringsIntroduction" />
         <item itemvalue="Application.JavaCurrencyFormatter" />
         <item itemvalue="Application.JavaDateAndTime" />
         <item itemvalue="Application.JavaStaticInitializerBlock" />
-        <item itemvalue="Application.JavaLoops2" />
       </list>
     </recent_temporary>
   </component>
@@ -370,7 +371,7 @@
     <frame x="525" y="0" width="841" height="738" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16389245" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16389245" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -379,7 +380,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4973046" visible="true" weight="0.35041323" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4973046" visible="true" weight="0.35041323" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3966942" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -461,14 +462,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Added solution Equalize The Array" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/dft/easy/RepeatedString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dft/Animal.java" />
     <entry file="file://$PROJECT_DIR$/src/com/dft/easy/EqualizeTheArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -805,16 +798,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dft/java/easyTasks/JavaCurrencyFormatter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dft/java/easyTasks/JavaStringsIntroduction.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -824,10 +807,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dft/java/easyTasks/Anagrams.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+        <state relative-caret-position="289">
+          <caret line="35" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="35" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dft/java/easyTasks/JavaSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dft/java/easyTasks/JavaCurrencyFormatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dft/java/easyTasks/JavaSubstringComparisons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="69" selection-start-line="21" selection-start-column="69" selection-end-line="21" selection-end-column="69" />
+          <folding>
+            <element signature="e#660#661#0" expanded="true" />
+            <element signature="e#736#737#0" expanded="true" />
           </folding>
         </state>
       </provider>
